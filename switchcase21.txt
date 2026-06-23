@@ -17,7 +17,7 @@ int main(){
         if(time>=18){
             amt=250+50;
         }
-        else{
+        else{ 
             amt=250;
         }
         break;
@@ -27,4 +27,8 @@ int main(){
     }
     printf("ticker price Rs%d",amt);
     return 0;
-}
+}     
+
+
+
+
